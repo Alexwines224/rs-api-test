@@ -27,7 +27,7 @@ module API
 		private
 
 		def user_params
-			params.require(:user).permit(:phone_number, :message])
+			params.require(:user).permit(:phone_number, :message)
 		end
 
 
