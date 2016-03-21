@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.5.1'
 gem 'pg', '~> 0.15'
-gem 'ringcentral_sdk', '>= 1.1.1'
+# gem 'ringcentral_sdk', '>= 1.1.1'  ADD THIS BACK
 gem 'figaro'
 
 gem "responders"
